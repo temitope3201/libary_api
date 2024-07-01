@@ -1,7 +1,7 @@
 # Library API
 Library API  is a simple rest api built with Django Rest Framework(Python) for Mastering Backend Bootcamp 2.0 project
 
-This recipe api uses swagger ui:
+This library api uses swagger ui:
 /swagger/
 /redoc/
 
