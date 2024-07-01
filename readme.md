@@ -1,5 +1,5 @@
-# recipe_api_x
-Library api is a simple rest api built with Django Rest Framework(Python) for Mastering Backend Bootcamp 2.0 project
+# Library API
+Library API  is a simple rest api built with Django Rest Framework(Python) for Mastering Backend Bootcamp 2.0 project
 
 This recipe api uses swagger ui:
 /swagger/
@@ -14,7 +14,7 @@ dependencies:
 
 To run on local host
 
-1. git clone 
+1. git clone https://github.com/temitope3201/libary_api.git
 2. cd lib_api
 3. create venv
 4. pip install -r requirements.txt
